@@ -25,7 +25,7 @@
 
 Esse comando vai abrir uma tela semelhante com a imagem a baixo, preencha com seu e-mail do GitHub e o nome que você preferir:
 
-![Untitled](C:\Users\vitor\OneDrive\Desktop\Projeto GitHub)
+![Untitled](https://yurimarcon.notion.site/Curso-Git-GitHub-ab0b5146af4b42a38638c4c4d92b15f3)
 
 (Normalmente configuramos o usuario apenas uma vez, mesmo assim mantive esse comando na lista pois é uma configuração muito importante)
 

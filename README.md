@@ -25,7 +25,7 @@
 
 Esse comando vai abrir uma tela semelhante com a imagem a baixo, preencha com seu e-mail do GitHub e o nome que você preferir:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eb2ee0fb-c6d3-448c-bcb5-3c91b81587c8/Untitled.png)
+![Untitled](config.png)
 
 (Normalmente configuramos o usuario apenas uma vez, mesmo assim mantive esse comando na lista pois é uma configuração muito importante)
 

@@ -25,7 +25,7 @@
 
 Esse comando vai abrir uma tela semelhante com a imagem a baixo, preencha com seu e-mail do GitHub e o nome que você preferir:
 
-![config,png](https://camo.githubusercontent.com/a3353c9acf617a02578e59da6595b3e5ec3a8891679f22a1fbdae7b6a4fc98b3/68747470733a2f2f73332d75732d776573742d322e616d617a6f6e6177732e636f6d2f7365637572652e6e6f74696f6e2d7374617469632e636f6d2f65623265653066622d633664332d343438632d626362352d3363393162383135383763382f556e7469746c65642e706e67)
+![Untitled](https://img.notionusercontent.com/s3/prod-files-secure%2F83116117-fce1-4c4a-9017-680f1325098f%2Feb2ee0fb-c6d3-448c-bcb5-3c91b81587c8%2FUntitled.png/size/w=960?exp=1741993036&sig=CCiVPDRTrOy7NRmipamPRiKxk9H_kzQk0PfhrJbusbo)
 
 (Normalmente configuramos o usuario apenas uma vez, mesmo assim mantive esse comando na lista pois é uma configuração muito importante)
 

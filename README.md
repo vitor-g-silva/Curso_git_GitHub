@@ -89,5 +89,3 @@ Traz todas as alterações de outra branch para “mergear”com a branch atual.
 
 ## MEU CONTATO
 vitor.gds@outlook.com 
-
-Telefone: 1234-5678
